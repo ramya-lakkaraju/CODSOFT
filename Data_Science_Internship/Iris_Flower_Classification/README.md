@@ -1,56 +1,28 @@
 Iris Flower Classification
 
-This project is completed as part of the CodSoft Data Science Internship.
-The objective of this task is to build a machine learning model to classify Iris flowers into different species based on their physical characteristics.
-
-Objective
-
-To predict the species of an Iris flower using sepal and petal measurements through a supervised machine learning approach.
+This project classifies Iris flowers into different species using machine learning techniques as part of the CodSoft Data Science Internship.
 
 Dataset
 
-Source: Built-in Iris dataset from scikit-learn
-
-Number of samples: 150
-
-Number of features: 4 numerical features
-
-Target variable: Flower species (Setosa, Versicolor, Virginica)
+The dataset contains measurements of Iris flowers such as sepal length, sepal width, petal length, and petal width.
 
 Model Used
 
 Logistic Regression
 
-Suitable for multi-class classification problems
-
-Tools and Technologies
+Tools & Technologies
 
 Python
-
 Pandas
-
 Scikit-learn
 
-Workflow
+Evaluation Metrics
 
-Loaded the Iris dataset using scikit-learn
+Accuracy
+Precision
+Recall
+F1-score
 
-Converted the dataset into a pandas DataFrame
+Result
 
-Split the data into training and testing sets
-
-Trained a Logistic Regression classification model
-
-Evaluated the model using accuracy and classification metrics
-
-Results
-
-Accuracy achieved: 100%
-
-The model successfully classified all test samples
-
-High precision, recall, and F1-score for all classes
-
-Files Included
-
-iris.py – Python script for Iris flower classification
+The model successfully classifies Iris flowers into three species with 100% accuracy on the test dataset.
