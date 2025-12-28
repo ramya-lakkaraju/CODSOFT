@@ -4,7 +4,7 @@ This project classifies Iris flowers into different species using machine learni
 
 Dataset
 
-The dataset contains measurements of Iris flowers such as sepal length, sepal width, petal length, and petal width.
+The dataset contains flower measurements such as sepal length, sepal width, petal length, and petal width.
 
 Model Used
 
@@ -25,4 +25,4 @@ F1-score
 
 Result
 
-The model successfully classifies Iris flowers into three species with 100% accuracy on the test dataset.
+The model successfully classified Iris flowers with 100% accuracy on the test dataset.
