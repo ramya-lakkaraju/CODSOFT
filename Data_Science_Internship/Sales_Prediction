@@ -1,0 +1,21 @@
+## Sales Prediction
+
+This project predicts product sales using machine learning techniques as part of the CodSoft Data Science Internship.
+
+### Dataset
+The dataset contains advertising expenditure on TV, Radio, and Newspaper along with sales data.
+
+### Model Used
+Linear Regression
+
+### Tools & Technologies
+Python  
+Pandas  
+Scikit-learn  
+
+### Evaluation Metrics
+Mean Absolute Error (MAE)  
+Mean Squared Error (MSE)
+
+### Result
+The model predicts sales with reasonable accuracy based on advertising expenditure.
